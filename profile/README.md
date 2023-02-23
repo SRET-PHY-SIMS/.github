@@ -28,7 +28,7 @@
 |SAIRAM B SUBRAMANIAM	|E0422050	|✅	|
 
 > **Note**
-> Only UIDs' with ✅ is accessable
+> Only UIDs' with ✅ is accessible
 
 > To access the simulations: goto "https://sret-phy-sims.github.io/<UID\>"
 >> For Example, to access the simulation of the student E0322032, You have to goto "https://sret-phy-sims.github.io/E0322032"
