@@ -31,5 +31,5 @@
 |ASHLYN RAMESH	|E0422059|	✅	||<a href="https://sret-phy-sims.github.io/E0422059">![](https://img.shields.io/badge/Link-%E2%9C%93-Green)</a>|
 |ANJANAA S	|E0422010|	❌	|Not submitted|![](https://img.shields.io/badge/Link-x-red)| 
 |SAIRAM B SUBRAMANIAM	|E0422050	|✅	||<a href="https://sret-phy-sims.github.io/E0322050">![](https://img.shields.io/badge/Link-%E2%9C%93-Green)</a>|
-|Meha Murali| - | ✅||<a href="https://sret-phy-sims.github.io/Meha-sound-sim">![](https://img.shields.io/badge/Link-%E2%9C%93-Green)</a>|
+|Meha Murali| - | ✅||<a href="https://sret-phy-sims.github.io/meha-sound-sim">![](https://img.shields.io/badge/Link-%E2%9C%93-Green)</a>|
 
