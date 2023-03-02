@@ -1,6 +1,6 @@
-|Name	|UID	|Buildable?	|Remarks|
-|----|-----|-----|----|
-|PRIYADHARSINI M	|E0322021	|❌ |	Not Submitted 
+|Name	|UID	|Buildable?	|Remarks|Link|
+|----|-----|-----|----|------|
+|PRIYADHARSINI M	|E0322021	|❌ |	Not Submitted|<img src="https://img.shields.io/badge/Link-blue">| 
 |PRITHIYANGA A	|E0322032	|✅ 	|Html and js
 |JAYAPRAKASH M	|E0322035	|❌ 	|Lack of assets
 |APURVA LISBETH JOSEPH	|E0322038	|✅	|Html and js
